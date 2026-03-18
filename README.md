@@ -1,6 +1,6 @@
-# Telegram Shop MVP
+# Telegram Shop
 
-MVP интернет-магазина в формате Telegram-бота с backend на FastAPI и bot-слоем на aiogram 3. Проект разделён на `api`, `bot`, `services`, `repositories`, `db`, `schemas`, использует async SQLAlchemy 2, PostgreSQL, Redis, Alembic и Docker Compose.
+Заготовка интернет-магазина в формате Telegram-бота с backend на FastAPI и bot-слоем на aiogram 3. Проект разделён на `api`, `bot`, `services`, `repositories`, `db`, `schemas`, использует async SQLAlchemy 2, PostgreSQL, Redis, Alembic и Docker Compose.
 
 ## Возможности
 
